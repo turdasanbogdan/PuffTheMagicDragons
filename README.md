@@ -1,4 +1,4 @@
-PuffTheMagicDragons first adventure together.
+#PuffTheMagicDragons first adventure together.
 
 We will build some pretty game, which will evolve with time. New ( brilliant ) ideas will be added here step by step. 
 
