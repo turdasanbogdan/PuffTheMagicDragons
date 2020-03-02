@@ -11,7 +11,7 @@ Stay with use, only glory to come. :sparkler:
 * Visual Studio Code
 * basic C# knoledges
 
-### Authors
+#### Authors
 - Mariş Oana
-- Iasmina Stoianović
+- Stoianović Iasmina 
 - Turdăşan Bogdan
