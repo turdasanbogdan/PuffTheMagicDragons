@@ -1,6 +1,6 @@
 # PuffTheMagicDragons first adventure together.
 
-We will build some pretty game, which will evolve with time. New ( brilliant ) ideas will be added here step by step. 
+We will build one pretty game, which will evolve with time. New ( brilliant ) ideas will be added here step by step. 
 
 We are at the very beginning of this journey. 
 
