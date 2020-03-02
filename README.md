@@ -1,1 +1,1 @@
-"# PuffTheMagicDragons first adventure together"
+PuffTheMagicDragons first adventure together
