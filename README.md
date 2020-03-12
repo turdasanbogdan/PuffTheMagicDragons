@@ -4,14 +4,14 @@ We will build one 3D game using Unity, which will evolve with time. New ( brilli
 
 We are at the very beginning of this journey. 
 
-Our mission is to deliver the best possible product to ower clients by the end of the semester.
+Our mission is to deliver the best possible product to our clients by the end of the semester.
 
 Stay with use, only glory to come. :sparkler:
 
 ## Build with
 * Unity 
-* Visual Studio Code
-* basic C# knoledges
+* Visual Studio
+* basic C# knowledges
 
 #### Authors
 - Mariş Oana
