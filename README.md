@@ -17,3 +17,5 @@ Stay with use, only glory to come. :sparkler:
 - Mariş Oana
 - Stoianović Iasmina 
 - Turdăşan Bogdan
+
+![Layout](https://user-images.githubusercontent.com/33568959/76571309-deefa580-64bf-11ea-8133-b451fe899657.png)
