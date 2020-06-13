@@ -8,6 +8,16 @@ Our mission is to deliver the best possible product to our clients by the end of
 
 Stay with use, only glory to come. :sparkler:
 
+The mazes are generated usign a script, so get rid of the hard work.
+
+Characters are made using Adobe Fuse.
+
+Are you ready to step in the world of cyberpunk ?
+
+The our game is available here : https://simmer.io/@turdasan/puffthemagicdragons-1-2?fbclid=IwAR0hvJ3wdtm3MqS4l1bun5PMvOHqxIM9zvGVwDZzufocr6A6GCL20kiC3wo
+
+
+
 ## Build with
 * Unity 
 * Visual Studio
@@ -20,6 +30,12 @@ Stay with use, only glory to come. :sparkler:
 
 ![Layout](images/96239716_1323386847852267_7397589097251864576_n.png)
 
+## Characters
+![Layout](images/male.jpg)
+
+![Layout](images/female.jpg)
+
+## Levels
 
 ![Layout](images/100893448_2943884085724493_1697603742347558912_n.png)
 
@@ -27,6 +43,10 @@ Stay with use, only glory to come. :sparkler:
 
 ![Layout](images/101541779_684987958953186_1938291935793905664_n.png)
 
+## Pause Game
+
 ![Layout](images/101057619_3133289680230191_4958817326968340480_n.png)
 
-![Layout](images/100893448_2943884085724493_1697603742347558912_n.png)
+## Maze preview (maze from level 2)
+
+![Layout](images/maze.png)
