@@ -14,7 +14,7 @@ Characters are made using Adobe Fuse.
 
 Are you ready to step in the world of cyberpunk ?
 
-The our game is available here : https://simmer.io/@turdasan/puffthemagicdragons-1-2?fbclid=IwAR0hvJ3wdtm3MqS4l1bun5PMvOHqxIM9zvGVwDZzufocr6A6GCL20kiC3wo
+Our game is available here : https://simmer.io/@turdasan/puffthemagicdragons-1-2?fbclid=IwAR0hvJ3wdtm3MqS4l1bun5PMvOHqxIM9zvGVwDZzufocr6A6GCL20kiC3wo
 
 
 
